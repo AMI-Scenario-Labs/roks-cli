@@ -2,3 +2,4 @@
 .goreleaser.yml
 dist/*.yaml
 *.sh
+roks

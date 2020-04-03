@@ -1,0 +1,4 @@
+4fd733a7a32c09e28e26d82ab158ad75de7e3954d00f0a51e60aecd5150f42d9  roks-cli_v0.0.0-next_linux_x86_64.tar.gz
+5d3a94f73b560660c5a86d6017ed296010599c2b162c347c4ee291f91e5efb49  roks-cli_v0.0.0-next_linux_386.tar.gz
+6a19858cdfa7b0b2033ceff95e59d93bd79b26193f33dc0e35bbb90ed13a6b3e  roks-cli_v0.0.0-next_macos_x86_64.tar.gz
+bcde1fcea2b6d48eb4554b878e2236605474e83015f33a309daa9acb38bf569d  roks-cli_v0.0.0-next_macos_386.tar.gz
