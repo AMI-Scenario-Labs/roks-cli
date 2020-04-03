@@ -1,3 +1,4 @@
 .vscode
 .goreleaser.yml
 dist/*.yaml
+*.sh
