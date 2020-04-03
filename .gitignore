@@ -1,5 +1,5 @@
 .vscode
 .goreleaser.yml
-dist/*.yaml
+dist/*
 *.sh
 roks
