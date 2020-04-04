@@ -1,4 +1,4 @@
-03019ced54aaa84ec56fa572a5bccde985c640642b7e2c386e5e2f3d7f2f7b46  roks-cli_0.3.3_linux_386.tar.gz
-29bacb4e5bbc7d5cccc8d5c6a267afc66d772c10401d02169dabdd15c490d14f  roks-cli_0.3.3_macos_386.tar.gz
-2e165c8af7448447c2d431b5eeb28eed28506e3d7483703ac42daca0be95e330  roks-cli_0.3.3_macos_x86_64.tar.gz
-a66b207518a8d0f65f82881bb188b9908c76016596393117be21664bb876981c  roks-cli_0.3.3_linux_x86_64.tar.gz
+80f3ec2d05adda7a7f30d2db5fc62f7a439dd438df57587835248fa7f5f7d1a5  roks-cli_0.3.4_linux_386.tar.gz
+e12cf9987141190925eb2ce44c84e770cdcedc7baadbd8d94be1f2688e7ac767  roks-cli_0.3.4_linux_x86_64.tar.gz
+dc2a24e5dae50d32a3e147d53353538081639149891df599b18ca4ead430b75f  roks-cli_0.3.4_macos_386.tar.gz
+4e2bcbc5201c82f7da2225da05fcc6d10b33f451c2a936ce5cbc3ef267ea07a6  roks-cli_0.3.4_macos_x86_64.tar.gz
