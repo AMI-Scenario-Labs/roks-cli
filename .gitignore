@@ -1,6 +1,7 @@
 .vscode
 .goreleaser.yml
 dist
+dist/*
 *.sh
 roks
 github_token
