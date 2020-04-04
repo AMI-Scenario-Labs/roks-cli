@@ -3,3 +3,4 @@
 dist/*
 *.sh
 roks
+github_token
