@@ -307,7 +307,7 @@ func main() {
 	app.HideHelp = true
 	app.HideVersion = false
 	app.Name = "roks-cli"
-	app.Version = "v0.1"
+	app.Version = "v0.3.3"
 	app.Compiled = time.Now()
 	app.Authors = []*cli.Author{
 		{Name: "Jamil Spain", Email: "jamil.spain@us.ibm.com"},

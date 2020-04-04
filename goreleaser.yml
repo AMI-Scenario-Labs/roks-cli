@@ -1,7 +1,7 @@
-repo: ibmIntegration/roks-cli
+repo: IBMIntegration/roks-cli
 binary_name: release
 brew:
-  repo: goreleaser/homebrew-formulae
+  repo: IBMIntegration/homebrew-roks-cli
 build:
   oses:
     - windows
